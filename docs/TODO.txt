@@ -1,0 +1,10 @@
+2015. 12. 11.
+	- Véglegesen elkezdtem a projektet. Próbálok minél elõbb sikert elérni,
+	ezért egyszerû lépésekben kezdek neki. Már elsõ nekifutásra fel kellett osztanom 2 részre
+	a programot, mert a VEM-et (Vintage Effect Module) szeretném teljesen függetlenné tenni a bemenõ adattól.
+	Ezért a VEM csak egy megosztott memóriát lát ahol szigorúan csak pixelek találhatóak.
+	Így megoldom, hogy szöveget és képet egyaránt tudjon megjeleníteni.
+	- Elsõ alkalommal megírok:
+		* boilerplate VEM-et - ez elvileg már majdnem kész
+		* egyszerû MM-et (Media Module)
+		* ezek kommunikálnak egymással és megjelenik egy kép.
